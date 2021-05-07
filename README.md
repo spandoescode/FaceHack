@@ -1,2 +1,5 @@
-# FaceHack
-Detects Positive and Negative (sarcastic/uncomfortable) smiles using Transfer Learning (as a part of the I’m Beside You Hackathon 2021)
+## Installing Dependencies
+Run 
+```python
+pip3 install -r requirements.txt
+```
